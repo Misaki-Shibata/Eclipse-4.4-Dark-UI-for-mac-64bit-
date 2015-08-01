@@ -3,6 +3,6 @@ configuration/**/*.gif
 configuration/**/*.png
 
 # workspace/.metadata
-workspace/.metadata/*log
+workspace/.metadata/.log
 workspace/.metadata/**/*.png
 workspace/.metadata/**/*.gif
