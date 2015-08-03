@@ -3,9 +3,10 @@
 ![スクリーンショット](https://github.com/Misaki-Shibata/Eclipse4.4-Dark-UI-PDT-for-mac-64bit/blob/master/workspace/ReadMe/resouce/images/ss.png?raw=true "スクリーンショット")
 
 ###変更内容
-1. テーマカラーを"ダーク"に変更
-2. PDT(PHP Development Tools)をインストール
-3. 外部エディタの紐付け(*.coffee,*.styl,*.scss,*.jadeをAtomエディタに紐付け)
+1. pleiadesで日本語化
+2. テーマカラーを"ダーク"に変更
+3. PDT(PHP Development Tools)をインストール
+4. 外部エディタの紐付け(*.coffee,*.styl,*.scss,*.jadeをAtomエディタに紐付け)
 
 ### 変更ショートカット
 
