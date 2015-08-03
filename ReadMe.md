@@ -1,4 +1,4 @@
-### [DOWNLOAD↗](../../../releases/)
+### [DOWNLOAD](../../releases/)
   
 ![スクリーンショット](https://github.com/Misaki-Shibata/Eclipse4.4-Dark-UI-PDT-for-mac-64bit/blob/master/workspace/ReadMe/resouce/images/ss.png?raw=true "スクリーンショット")
 
