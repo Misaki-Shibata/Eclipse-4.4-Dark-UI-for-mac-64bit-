@@ -19,3 +19,7 @@
 |マニュアルを開く |F2|
 |行のコピー|⌘+⇧+d|
 
+
+### オプション
+
+<a href="../../workspace/ReadMe/ReadMe-xdebug.md">xdebug設定</a>
