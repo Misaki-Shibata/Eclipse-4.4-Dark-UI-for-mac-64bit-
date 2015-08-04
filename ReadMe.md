@@ -22,4 +22,4 @@
 
 ### オプション
 
-<a href="../../workspace/ReadMe/ReadMe-xdebug.md">xdebug設定</a>
+<a href="workspace/ReadMe/ReadMe-xdebug.md">xdebug設定</a>
