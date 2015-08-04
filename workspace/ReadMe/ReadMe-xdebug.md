@@ -7,7 +7,7 @@
 ![SS2](./resouce/images/xdebug-setting01.png?raw=true "SS2")
 
 - eclipse-preference
-![SS3](./resouce/images/xdebug-setting03.png?raw=true "SS3")
+![SS3](./resouce/images/xdebug-setting02.png?raw=true "SS3")
 
 - eclipse-preference
-![SS4](./resouce/images/xdebug-setting04.png?raw=true "SS4")
+![SS4](./resouce/images/xdebug-setting03.png?raw=true "SS4")
