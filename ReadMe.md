@@ -1,6 +1,6 @@
 ### [DOWNLOAD](../../releases/)
   
-![スクリーンショット](https://github.com/Misaki-Shibata/Eclipse4.4-Dark-UI-PDT-for-mac-64bit/blob/master/workspace/ReadMe/resouce/images/ss.png?raw=true "スクリーンショット")
+![スクリーンショット](workspace/ReadMe/resouce/images/ss.png?raw=true "スクリーンショット")
 
 ###変更内容
 1. pleiadesで日本語化
